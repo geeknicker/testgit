@@ -5,3 +5,4 @@ branch test
 Create a new branch is quick &&& simple
 text
 modify2
+modify
