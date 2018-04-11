@@ -2,4 +2,8 @@ hello git!
 hello world!
 testgit
 branch test
-create a new branch is quick &&& simple
+<<<<<<< HEAD
+create a new branch is quick and simple
+=======
+Create a new branch is quick and simple
+>>>>>>> feature1
